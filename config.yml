@@ -1,5 +1,7 @@
-slack_token: "xoxb-303194239648-1110227645156-vjYBQofE6AHRynLa8EhnEF7g"  # slack app bot token needed
-#slack bot CarPark token: 'xoxb-303194239648-1110227645156-vjYBQofE6AHRynLa8EhnEF7g'
+# slack token generate by slack app. step by step guide to generate the token
+# https://github.com/slackapi/python-slackclient/tree/master/tutorial
+
+slack_token: "xoxb-<token number>"
 
 slack_channel: "#carpark" # channel should be mentioned with hash
 intersection_value: 0.2   # intersection between parking and car; 0.2 is best performing value, change only if necessary
