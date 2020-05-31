@@ -22,6 +22,8 @@ https://github.com/slackapi/python-slackclient/tree/master/tutorial
 Calculate Intersection over Union: https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/
 Object detection using YOLO and OpenCV: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 SSD code: https://honingds.com/blog/ssd-single-shot-object-detection-mobilenet-opencv/
+
 Data augmentation and Image Classifier:
+
 https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
